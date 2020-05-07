@@ -1,0 +1,394 @@
+*{
+    font-family: sans-serif;
+}
+#firstcontainer{
+    background-color: #316DC3;
+}
+#header1{
+
+    text-align: center;
+    margin-top: 9px;
+}
+
+.icons{
+    height:25px;
+    width:25px;
+
+}
+.icons:hover{
+
+
+    background-color: 	#759DD7;
+
+}
+ #header2{
+
+    color: white;
+    text-align: center;
+    margin-top: 9px;
+
+}
+
+ #header3{
+    text-align: center;
+    margin-top: 9px;
+}
+
+.header3button{
+    color:green;
+    border: 0.5px solid green;
+    background-color: #F5F5F5;
+    cursor:pointer;
+    height: 27px;
+    margin-right: 2px;
+    font-size: 12px;
+} 
+.nav-link:hover{
+
+    color: white;
+    background-color: #316DC3;
+    border-radius: 25px;
+
+}
+
+#fourthcontainer{
+
+    height: 35px;
+    background-color: white;
+}
+#fourthcontainer1{
+
+    width:80%;
+    color:white;
+    margin-top: 10px;
+    height: 25px;
+    background-color: #316DC3;
+}
+#fifthcontainer{
+
+    color:grey;
+    background-color: #F5F5F5;
+    font-size: 16px;
+    line-height: 1.6;
+
+}
+#paragraphs{
+
+    
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 70px;
+    padding-top: 70px;
+    text-align: justify;
+}
+
+
+
+
+#sixthcontainer{
+
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-left:20px;
+    padding-bottom: 20px;
+
+    background-color: #1a75ff;
+}
+#bluecontainer1{
+
+
+    margin-top:30px;
+    text-align: center;
+    line-height: 1;
+
+}
+#bluecontainer2{
+
+    margin-top:30px;
+    text-align: center;
+    line-height: 1;
+
+}
+#bluecontainer3{
+
+    margin-top:30px;
+
+    text-align: center;
+    line-height: 1;
+}
+#bluecontainer4{
+
+
+
+    margin-top:30px;
+    text-align: center;
+    line-height: 1;
+
+}
+
+
+
+#seventhcontainer{
+    color:grey;
+    background-color: #F5F5F5;
+    font-size: 16px;
+    line-height: 1.6;
+
+}
+#whiteboxes{
+    text-align: justify;
+    color:grey;
+    background-color: #F5F5F5;
+
+}
+
+#whitecontainer1{
+    margin-right: 15px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+    height:150px;
+    background-color: white;
+    text-align: center;
+    line-height: 0.9;
+    box-shadow: 5px 10px 40px 10px lightgrey;
+}
+
+#whitecontainer2{
+    margin-right: 15px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+
+    height:150px;
+    background-color: white;
+    text-align: center;
+    line-height: 0.9;
+    box-shadow: 5px 10px 40px 10px lightgrey;
+}
+
+#whitecontainer3{
+    margin-right: 10px;
+    margin-bottom: 10px;
+    padding-top: 15px;
+
+    height:150px;
+    background-color: white;
+    text-align: center;
+    line-height: 0.9;
+    box-shadow: 5px 10px 40px 10px lightgrey;
+}
+#whitecontainer4{
+    padding-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+
+    height:150px;
+    background-color: white;
+    text-align: center;
+    line-height: 0.9;
+    box-shadow: 5px 10px 40px 10px lightgrey;
+}
+#whitecontainer5{
+    padding-top: 15px;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    height:150px;
+    background-color: white;
+    text-align: center;
+    line-height: 0.9;
+    box-shadow: 5px 10px 40px 10px lightgrey;
+}
+#whitecontainer6{
+    padding-top: 15px;
+    margin-right: 15px;
+    margin-bottom:50px;
+    margin-top: 0px;
+    height:150px;
+    background-color: white;
+    text-align: center;
+    line-height: 0.9;
+    box-shadow: 5px 10px 40px 10px lightgrey;
+}
+
+
+
+#eightcontainer{
+
+    background-color: white;
+    width: 100%;
+    height: 400px;
+
+}
+#missioncontainer{
+
+    padding-top: 30px;
+    padding-right: 10px;
+    height: 300px;
+    line-height: 1px;
+    margin-left: 15px;
+
+}
+
+#greycontainer1{
+
+    padding:10px 10px 15px 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    margin-left: 10px;
+    height:50px;
+    border: 0.5px solid 		#D3D3D3;
+    background-color: 		#F0F0F0;
+    
+}
+
+#greycontainer2{
+
+    padding:10px 10px 15px 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+    margin-bottom: 15px;
+    height:50px;
+    border: 0.5px solid 		#D3D3D3;
+    background-color: 		#F0F0F0;
+    
+}
+
+#greycontainer3{
+    margin-left: 10px;
+
+    padding:10px 10px 15px 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    height:50px;
+    border: 0.5px solid 		#D3D3D3;
+    background-color: 		#F0F0F0;
+    
+}
+#greycontainer4{
+    margin-left: 10px;
+
+    padding:10px 10px 15px 10px;
+    margin-right: 10px;
+    margin-bottom: 15px;
+    height:50px;
+    border: 0.5px solid 		#D3D3D3;
+    background-color: 		#F0F0F0;
+    
+}
+
+#eventscontainer{
+
+    height: 300px;
+    padding-top: 0px;
+    margin-top: 0px;
+
+
+    padding-right: 10px;
+
+    color: gray;
+    font-size: 15px;
+    line-height: 25px;
+
+
+}
+
+
+
+
+#ninthcontainer{
+    
+
+    background-color: white;
+    padding-bottom: 20px;
+
+    text-align: center;
+
+}
+
+.imagegallery:hover{
+    opacity: 0.3;
+
+
+}
+
+
+
+#contactcontainer{
+margin-top: 15px;
+padding-left: 50px;
+padding-top: 15px;
+
+
+    color:	#A9A9A9;
+    font-size: 15px;
+    line-height: 15px;
+
+
+}
+
+#linkcontainer{
+    margin-top: 15px;
+    padding-top: 15px;
+    color:	#A9A9A9;
+    font-size: 15px;
+    line-height: 15px;
+    padding-left: 50px;
+    padding-bottom: 15px;
+
+}
+
+#connectcontainer{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+    padding-left: 50px;
+    color:	#A9A9A9;
+    font-size: 15px;
+
+
+
+}
+
+#lastcontainer{
+    position: relative;
+    top: 08px;    
+    width: 100%;
+     height: 45px;
+     background-color: #316DC3;
+     color: white;
+     font-size: 12px;
+     padding-top: 3px;
+     padding-bottom: 3px;
+    
+}
+
+#copyrightcontainer{
+    width: 70%;
+    position: absolute;
+    left:70px;
+    bottom: 0px;
+
+}
+.fr{
+    width: 350px;
+    height: 75px;
+    background-color: whitesmoke;
+    float: left;
+    border: 1px solid whitesmoke;
+    margin: 30px 15px 10px 20px;
+
+}
+
+.sc{
+    width: 350px;
+    height: 75px;
+    background-color: whitesmoke;
+    float: left;
+    border: 1px solid whitesmoke;
+    margin: 10px 15px 30px 20px;
+
+}
+
+.ig2 {
+    padding: 18px 18px 10px 15px;
+}
